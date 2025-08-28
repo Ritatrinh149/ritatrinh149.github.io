@@ -21,4 +21,4 @@ Implemented cost tracking, inter-department collaboration, and budget forecasts 
 
 ---
 
-👉 Explore my [Skills & Certifications](skills.md) to see the expertise applied in these projects.  
+👉 Explore my [Skills & Certifications](skills.qmd) to see the expertise applied in these projects.  

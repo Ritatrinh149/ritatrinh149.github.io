@@ -23,4 +23,4 @@ format: html
 
 ---
 
-👉 See how I applied these in [Experience](experience.md).  
+👉 See how I applied these in [Experience](experience.qmd).  
