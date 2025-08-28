@@ -1,18 +1,16 @@
-project:
-  type: website
-
 website:
   title: "Phuong Trinh – MBA Portfolio"
   navbar:
     left:
       - text: "Home"
-        file: index.md
+        file: index.qmd
       - text: "Projects"
-        file: projects.md
+        file: projects.qmd
       - text: "Skills & Certifications"
-        file: skills.md
+        file: skills.qmd
       - text: "Experience"
-        file: experience.md
+        file: experience.qmd
+
 format:
   html:
     theme: cosmo
