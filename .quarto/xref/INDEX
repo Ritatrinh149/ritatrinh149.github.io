@@ -10,5 +10,17 @@
   },
   "Skills.md": {
     "Skills.html": "c68b12f7"
+  },
+  "experience.qmd": {
+    "experience.html": "e664786e"
+  },
+  "index.qmd": {
+    "index.html": "fe59c53a"
+  },
+  "projects.qmd": {
+    "projects.html": "1dac635a"
+  },
+  "skills.qmd": {
+    "skills.html": "8f39a3fd"
   }
 }

@@ -6,21 +6,13 @@ website:
   navbar:
     left:
       - text: "Home"
-        file: index.qmd
+        file: index.md
       - text: "Projects"
-        file: projects.qmd
+        file: projects.md
       - text: "Skills & Certifications"
-        file: skills.qmd
+        file: skills.md
       - text: "Experience"
-        file: experience.qmd
-  page-footer:
-    left: "© 2025 Vu Hoai Phuong Trinh"
-    right:
-      - text: "LinkedIn"
-        href: "https://www.linkedin.com/in/phuongtrinh149/"
-      - text: "GitHub"
-        href: "https://github.com/ritatrinh149"
-
+        file: experience.md
 format:
   html:
     theme: cosmo
