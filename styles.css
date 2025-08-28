@@ -160,3 +160,11 @@ body {
   body { padding-top: 64px; }
 }
 
+/* Hero block (top banner with name + LinkedIn button) */
+.hero-block {
+  background-color: #e0e0e0; /* light grey */
+  color: #222;               /* darker text for contrast */
+  border-radius: 12px;
+  padding: 2rem;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
