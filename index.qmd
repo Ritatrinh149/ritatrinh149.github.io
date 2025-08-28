@@ -21,6 +21,6 @@ As an independent individual with an entrepreneurial mindset, I bring proactive 
 ---
 
 ## 🔗 Quick Links
-- [Projects](projects.qmd)
-- [Skills & Certifications](skills.qmd)
-- [Experience](experience.qmd)
+- [Projects](projects.md)
+- [Skills & Certifications](skills.md)
+- [Experience](experience.md)

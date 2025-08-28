@@ -15,15 +15,15 @@ website:
         file: experience.qmd
   page-footer:
     left: "© 2025 Vu Hoai Phuong Trinh"
-    right: 
+    right:
       - text: "LinkedIn"
         href: "https://www.linkedin.com/in/phuongtrinh149/"
       - text: "GitHub"
-        href: "https://github.com/Ritatrinh149"
+        href: "https://github.com/ritatrinh149"
 
 format:
   html:
     theme: cosmo
     css: styles.css
-    include-after-body: 
+    include-after-body:
       - scripts.html
