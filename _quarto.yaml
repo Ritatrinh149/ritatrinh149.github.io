@@ -1,0 +1,29 @@
+project:
+  type: website
+
+website:
+  title: "Phuong Trinh – MBA Portfolio"
+  navbar:
+    left:
+      - text: "Home"
+        file: index.qmd
+      - text: "Projects"
+        file: projects.qmd
+      - text: "Skills & Certifications"
+        file: skills.qmd
+      - text: "Experience"
+        file: experience.qmd
+  page-footer:
+    left: "© 2025 Vu Hoai Phuong Trinh"
+    right: 
+      - text: "LinkedIn"
+        href: "https://www.linkedin.com/in/phuongtrinh149/"
+      - text: "GitHub"
+        href: "https://github.com/Ritatrinh149"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    include-after-body: 
+      - scripts.html

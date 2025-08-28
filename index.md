@@ -1,0 +1,26 @@
+---
+title: "Phuong Trinh – MBA Portfolio"
+format: html
+---
+
+<div class="hero-banner">
+  <h1>Vu Hoai Phuong Trinh</h1>
+  <h2>MBA Candidate | Finance | Strategy | Entrepreneurship</h2>
+  <a href="https://www.linkedin.com/in/phuongtrinh149/" class="btn-hero">Connect on LinkedIn</a>
+</div>
+
+# About Me
+
+![Profile Photo](assets/portrait.png)
+
+Hi, I’m **Vu Hoai Phuong Trinh**, an MBA Candidate at **University Canada West** specializing in Finance Management.  
+As an independent individual with an entrepreneurial mindset, I bring proactive and vibrant energy to both personal and business pursuits. 
+
+🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/phuongtrinh149/)
+
+---
+
+## 🔗 Quick Links
+- [Projects](projects.qmd)
+- [Skills & Certifications](skills.qmd)
+- [Experience](experience.qmd)

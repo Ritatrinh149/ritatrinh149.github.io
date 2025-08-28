@@ -1,0 +1,21 @@
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    const nav = document.querySelector('header#quarto-header nav.navbar');
+    if (!nav) return;
+
+    // Height benchmark: hero height if present, otherwise 80px
+    const hero = document.querySelector('.hero-banner');
+    const threshold = (hero ? hero.offsetHeight : 80) - 10;
+
+    function onScroll() {
+      if (window.scrollY > threshold) {
+        nav.classList.add('scrolled');
+      } else {
+        nav.classList.remove('scrolled');
+      }
+    }
+
+    onScroll();                      // set initial state
+    window.addEventListener('scroll', onScroll, { passive: true });
+  });
+</script>
